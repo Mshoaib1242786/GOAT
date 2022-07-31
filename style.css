@@ -1,0 +1,39 @@
+body{
+    background: url("1s.jpg");
+    background-size:cover ;
+    height: 100vh;
+    text-align: center;
+    background-position: center;
+}
+
+input{
+    background-color: aliceblue;
+    border-radius: 26px;
+   text-align: center;
+    font-size: 30px;
+}
+h1{
+   
+    font-size: 70px;
+}
+h2{
+    
+    font-size: 70px;
+  
+}
+div.boxes{ background-color: rgb(247, 175, 66);
+    height: 400px;
+    width: 750px;
+    background-position: center;
+}
+div.main{
+    background-position: center;
+    border-right: 45px;
+}
+button{
+    border-radius: 30px;
+    font-size: 30px;
+}
+button:hover{background-color: rgb(238, 101, 101);
+    opacity: 0.9;
+    font-size: 30px;}
